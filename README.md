@@ -5,5 +5,6 @@
 
 ## run
 `pip install colorama`<br>
-`py main.py `
+`py main.py `<br>
+`py gui.py `
 
